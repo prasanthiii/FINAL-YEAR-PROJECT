@@ -1,5 +1,5 @@
 # FINAL-YEAR-PROJECT
-Dynamic Multi Ration Shop Inventory Consolidation System
+
           We have developed a project that aims to solve real-world problems faced by customers at public ration shops, such as long queues and lack of visibility on stock availability. The application allows users to check live inventory data of ration shops and book time slots in advance to collect their commodities, thereby reducing overcrowding and saving time.
 
 Built using Flutter (UI) and Firebase (backend), the system offers a smooth and responsive user experience with real-time updates. It consolidates inventory data across multiple ration shops and helps users plan their visits based on stock availability and slot timing.
