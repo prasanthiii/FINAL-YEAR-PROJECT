@@ -1,2 +1,16 @@
-# FINAL-YEAR-PROJECT
- We have developed a project that aims to solve real-world problems faced by customers at public ration shops, such as long queues and lack of visibility on stock availability. The application allows users to check live inventory data of ration shops and book time slots in advance to collect their commodities, thereby reducing overcrowding and saving time.Built using Flutter (UI) and Firebase (backend), the system offers a smooth and responsive user experience with real-time updates. It consolidates inventory data across multiple ration shops and helps users plan their visits based on stock availability and slot timing.
+# rationshop
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
